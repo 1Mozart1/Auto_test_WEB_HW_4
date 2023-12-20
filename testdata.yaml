@@ -1,0 +1,7 @@
+site: https://test-stand.gb.ru/
+site_login: https://test-stand.gb.ru/login
+site_post: "https://test-stand.gb.ru/api/posts"
+browser: firefox
+sleep_time: 3
+username: Neo1
+password: 9aedda8a1f
